@@ -1,9 +1,7 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+Hi, I'm [Heathclian](https://github.com/Heathclian), a student studying mathematics and cryptography, and I'm also deeply interested in philosophy, history, and other fields in the humanities.
 
-::github{repo="saicaca/fuwari"}
+This blog is my public learning notebook. I share study notes, summaries, and thoughts from what I'm learning. I write mainly to understand things more deeply and remember them more clearly. I'm glad that something here might help you understand one idea a little better.
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+Nice to meet you.
+
