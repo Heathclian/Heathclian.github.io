@@ -1,7 +1,7 @@
 ---
 title: "Lec8：CBC-MAC 与 Padding Oracle Attack(Original)"
 published: 2026-09-18
-description: 《数据安全与密码学基础》第 8 讲笔记：从 PRF 构造 MAC、CBC-MAC，到对 IND-CPA 的攻击与填充预言攻击。
+description: '《数据安全与密码学基础》第 8 讲笔记：从 PRF 构造 MAC、CBC-MAC，到对 IND-CPA 的攻击与填充预言攻击。'
 tags: [Cryptography, MAC, CBC-MAC, Padding Oracle]
 category: 数据安全与密码学基础
 draft: false
@@ -11,7 +11,7 @@ draft: false
 :::
 
 :::note
-*(<font color="#ffffff">白色字</font>是对课堂内容的总结，<font color="#00b0f0">蓝色字</font>是我的补充和想法，<font color="#ffc000">橙色字</font>是 AI 给我的反馈)*
+*<font color="#ffffff">白色字</font>是对课堂内容的总结，<font color="#00b0f0">蓝色字</font>是我的补充和想法，<font color="#ffc000">橙色字</font>是 AI 给我的反馈*
 :::
 ## 由 PRF 构造 MAC
 
